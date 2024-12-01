@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EnginuityAiApplication<enginuity>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.enginuity.EnginuityAiApplication",
+            "projectName": "enginuity",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
